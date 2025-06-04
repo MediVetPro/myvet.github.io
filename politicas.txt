@@ -1,0 +1,25 @@
+MediVet - Términos y Condiciones
+
+Descripción de la Aplicación:
+MediVet es una aplicación para Android diseñada para profesionales de la Medicina Veterinaria y Zootecnia. Proporciona información de consulta y calculadoras para facilitar las labores diarias. Esta aplicación está destinada exclusivamente a personas con formación académica en ciencias veterinarias y zootécnicas. Estamos comprometidos a ofrecer actualizaciones periódicas con nuevos contenidos y mejoras.
+
+Tratamiento de Datos Personales:
+MediVet ofrece la opción de autenticación a través de cuentas de Google, pero la información no se comparte ni se utiliza para análisis. Los usuarios pueden solicitar la eliminación permanente de sus datos enviando un correo a clienteinternacional.medivet@gmail.com desde el email registrado.
+
+Contenido y Responsabilidad:
+MediVet no permite a los usuarios enviar o publicar contenido. La aplicación muestra información sujeta a modificaciones externas. Los artículos sobre productos farmacéuticos no sustituyen la etiqueta del producto. Se recomienda seguir estrictamente las indicaciones de la etiqueta y consultar fuentes oficiales para información actualizada.
+
+Aviso sobre Calculadoras:
+Las calculadoras en MediVet son resultado de trabajo en equipo con especialistas. La aplicación no se hace responsable del mal uso de estas herramientas y solo debe ser utilizada por personal capacitado en el tema.
+
+Limitaciones de Uso:
+MediVet no es una tienda ni vende productos veterinarios. La aplicación es para uso docente o por profesionales clínicos y no puede ser vendida y colocada en tiendas, excepto Google Play. Se permite compartir el enlace de descarga oficial solo a través de Google Play Store. No se permite la ingeniería inversa ni la clonación de la aplicación.
+
+Requisitos y Anuncios:
+MediVet requiere Android 5+ y conexión a internet. Puede mostrar anuncios de Google según la región del usuario.
+
+Contacto y Atención al Cliente:
+Ante cualquier situación o para eliminar datos, contacta a clienteinternacional.medivet@gmail.com. Atendemos de lunes a viernes.
+
+Fecha de Actualización:
+Actualizado agosto 2024.
