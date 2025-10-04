@@ -14,12 +14,28 @@
             right: 10px;
             z-index: 1000;
         }
-        .privacy-banner {
-            background-color: #e3f2fd;
-            padding: 15px;
-            text-align: center;
-            border-bottom: 2px solid #2196f3;
-            margin-bottom: 20px;
+        .privacy-section {
+            background-color: #f8f9fa;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            border-left: 4px solid #007bff;
+        }
+        .privacy-section h3 {
+            color: #007bff;
+            margin-bottom: 15px;
+        }
+        .privacy-section ul {
+            margin-bottom: 0;
+        }
+        .privacy-section a {
+            color: #007bff;
+            text-decoration: underline;
+            font-weight: 500;
+        }
+        .privacy-section a:hover {
+            color: #0056b3;
+            text-decoration: none;
         }
     </style>
 	<meta name="google-site-verification" content="bfDVjyCEomtwHdcQzreAng3Q0Iq5qqe4-pMQflf5sN8" />
@@ -29,13 +45,6 @@
     <div class="language-selector">
         <a class="btn btn-primary" href="index.html" role="button">Español</a>
         <a class="btn btn-secondary" href="index_en.html" role="button">English</a>
-    </div>
-    
-    <!-- Privacy Policy Banner - AGREGADO PARA CUMPLIR CON GOOGLE -->
-    <div class="privacy-banner">
-        <strong>Política de Privacidad:</strong> 
-        <a href="privacy-policy.html" style="color: #1976d2; text-decoration: underline; font-weight: bold;">Leer Política de Privacidad</a> | 
-        <a href="tc_es.html" style="color: #1976d2; text-decoration: underline; font-weight: bold;">Términos y Condiciones</a>
     </div>
     
     <div class="container mt-2">
@@ -55,6 +64,19 @@
             </div>
         </div>
     </div>
+    
+    <!-- Sección de Política de Privacidad - MEJORADA -->
+    <div class="container">
+        <div class="privacy-section">
+            <h3>Política de Privacidad y Términos</h3>
+            <p>Para conocer cómo manejamos tu información personal, consulta nuestras políticas:</p>
+            <ul>
+                <li><a href="privacy-policy.html">Política de Privacidad</a></li>
+                <li><a href="tc_es.html">Términos y Condiciones</a></li>
+            </ul>
+        </div>
+    </div>
+    
     <div class="container">
         <div class="row">
             <div class="text-center col-md-6 col-12">
